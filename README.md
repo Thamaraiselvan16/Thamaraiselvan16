@@ -1,12 +1,16 @@
-- 👋 Hi, I’m Thamaraiselvan
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning full stack development 
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me
-- p.no => +91 9952206342
-- mail id => tthamaraiselvan2002@gmail.com 
+# Hi, I'm Thamaraiselvan! 👋
 
-<!---
-Thamaraiselvan16/Thamaraiselvan16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate web developer who loves to create web applications and bring ideas to life through code. Here's a little about me:
+
+- 🔭 I'm currently learning on full-stack development.
+- 🌱 I have a strong interest in building both the frontend and backend of web applications.
+- 🚀 I enjoy exploring new technologies and frameworks to enhance my development skills.
+- 💡 I'm always open to new collaborations and projects.
+
+## Let's Connect
+
+- 📧 Feel free to reach out to me via email at tthamaraiselvan2002@gmail.com.
+- 📱 You can also connect with me on my LinkedIn profile: https://www.linkedin.com/in/thamaraiselvan-t-9952206342-511819105016-07052002-fsd/.
+- 📞 If you prefer a phone call, you can reach me at +91 9952206342.
+
+I'm excited to connect with fellow developers and work together on exciting projects. Let's build something awesome together!
